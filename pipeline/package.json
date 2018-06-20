@@ -1,0 +1,16 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alejandro Torres",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "elasticsearch": "^15.0.0",
+    "fast-csv": "^2.4.1",
+    "request": "^2.87.0"
+  }
+}

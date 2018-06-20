@@ -1,0 +1,737 @@
+team,group,No.,Pos.,Player,Date of birth (age),Caps,Goals,Club
+Egypt,A,1,GK,Essam El-Hadary (captain),15 January 1973 (aged 45),158,0,Saudi-Arabia Al-Taawoun
+Egypt,A,2,DF,Ali Gabr,1 January 1989 (aged 29),21,1,England West-Bromwich-Albion
+Egypt,A,3,DF,Ahmed Elmohamady,9 September 1987 (aged 30),78,2,England Aston-Villa
+Egypt,A,4,MF,Omar Gaber,30 January 1992 (aged 26),24,0,United-States Los-Angeles-FC
+Egypt,A,5,MF,Sam Morsy,10 September 1991 (aged 26),5,0,England Wigan-Athletic
+Egypt,A,6,DF,Ahmed Hegazi,25 January 1991 (aged 27),45,1,England West-Bromwich-Albion
+Egypt,A,7,DF,Ahmed Fathy,10 November 1984 (aged 33),126,3,Egypt Al-Ahly
+Egypt,A,8,MF,Tarek Hamed,24 October 1988 (aged 29),21,0,Egypt Zamalek
+Egypt,A,9,FW,Marwan Mohsen,26 February 1989 (aged 29),24,4,Egypt Al-Ahly
+Egypt,A,10,FW,Mohamed Salah,15 June 1992 (aged 25),57,33,England Liverpool
+Egypt,A,11,FW,Kahraba,13 April 1994 (aged 24),19,3,Saudi-Arabia Al-Ittihad
+Egypt,A,12,DF,Ayman Ashraf,9 April 1991 (aged 27),4,0,Egypt Al-Ahly
+Egypt,A,13,DF,Mohamed Abdel-Shafy,1 July 1985 (aged 32),51,1,Saudi-Arabia Al-Fateh
+Egypt,A,14,FW,Ramadan Sobhi,23 January 1997 (aged 21),23,1,England Stoke-City
+Egypt,A,15,DF,Mahmoud Hamdy,1 June 1995 (aged 23),0,0,Egypt Zamalek
+Egypt,A,16,GK,Sherif Ekramy,10 July 1983 (aged 34),22,0,Egypt Al-Ahly
+Egypt,A,17,MF,Mohamed Elneny,11 July 1992 (aged 25),61,5,England Arsenal
+Egypt,A,18,FW,Shikabala,5 March 1986 (aged 32),29,2,Saudi-Arabia Al-Raed
+Egypt,A,19,MF,Abdallah Said,13 July 1985 (aged 32),36,6,Finland KuPS
+Egypt,A,20,DF,Saad Samir,1 April 1989 (aged 29),11,0,Egypt Al-Ahly
+Egypt,A,21,MF,Trézéguet,1 October 1994 (aged 23),24,2,Turkey Kasımpaşa
+Egypt,A,22,FW,Amr Warda,17 September 1993 (aged 24),16,0,Greece Atromitos
+Egypt,A,23,GK,Mohamed El-Shenawy,18 December 1988 (aged 29),3,0,Egypt Al-Ahly
+Russia,A,1,GK,Igor Akinfeev (captain),8 April 1986 (aged 32),106,0,Russia CSKA-Moscow
+Russia,A,2,DF,Mário Fernandes,19 September 1990 (aged 27),5,0,Russia CSKA-Moscow
+Russia,A,3,DF,Ilya Kutepov,29 July 1993 (aged 24),7,0,Russia Spartak-Moscow
+Russia,A,4,DF,Sergei Ignashevich,14 July 1979 (aged 38),122,8,Russia CSKA-Moscow
+Russia,A,5,DF,Andrei Semyonov,24 March 1989 (aged 29),6,0,Russia Akhmat-Grozny
+Russia,A,6,MF,Denis Cheryshev,26 December 1990 (aged 27),11,0,Spain Villarreal
+Russia,A,7,MF,Daler Kuzyayev,15 January 1993 (aged 25),6,0,Russia Zenit-Saint-Petersburg
+Russia,A,8,MF,Yury Gazinsky,20 July 1989 (aged 28),6,0,Russia Krasnodar
+Russia,A,9,MF,Alan Dzagoev,17 June 1990 (aged 27),57,9,Russia CSKA-Moscow
+Russia,A,10,FW,Fyodor Smolov,9 February 1990 (aged 28),32,12,Russia Krasnodar
+Russia,A,11,MF,Roman Zobnin,11 February 1994 (aged 24),12,0,Russia Spartak-Moscow
+Russia,A,12,GK,Andrey Lunyov,13 November 1991 (aged 26),3,0,Russia Zenit-Saint-Petersburg
+Russia,A,13,DF,Fyodor Kudryashov,5 April 1987 (aged 31),19,0,Russia Rubin-Kazan
+Russia,A,14,DF,Vladimir Granat,22 May 1987 (aged 31),12,1,Russia Rubin-Kazan
+Russia,A,15,MF,Aleksei Miranchuk,17 October 1995 (aged 22),18,4,Russia Lokomotiv-Moscow
+Russia,A,16,MF,Anton Miranchuk,17 October 1995 (aged 22),6,0,Russia Lokomotiv-Moscow
+Russia,A,17,MF,Aleksandr Golovin,30 May 1996 (aged 22),19,2,Russia CSKA-Moscow
+Russia,A,18,MF,Yuri Zhirkov,20 August 1983 (aged 34),84,2,Russia Zenit-Saint-Petersburg
+Russia,A,19,MF,Aleksandr Samedov,19 July 1984 (aged 33),48,7,Russia Spartak-Moscow
+Russia,A,20,GK,Vladimir Gabulov,19 October 1983 (aged 34),10,0,Belgium Club-Brugge
+Russia,A,21,MF,Aleksandr Yerokhin,13 October 1989 (aged 28),17,0,Russia Zenit-Saint-Petersburg
+Russia,A,22,FW,Artem Dzyuba,22 August 1988 (aged 29),23,11,Russia Arsenal-Tula
+Russia,A,23,DF,Igor Smolnikov,8 August 1988 (aged 29),27,0,Russia Zenit-Saint-Petersburg
+Saudi Arabia,A,1,GK,Abdullah Al-Mayouf,23 January 1987 (aged 31),11,0,Saudi-Arabia Al-Hilal
+Saudi Arabia,A,2,DF,Mansoor Al-Harbi,19 October 1987 (aged 30),40,1,Saudi-Arabia Al-Ahli
+Saudi Arabia,A,3,DF,Osama Hawsawi (captain),31 March 1984 (aged 34),135,7,Saudi-Arabia Al-Hilal
+Saudi Arabia,A,4,DF,Ali Al-Bulaihi,21 November 1989 (aged 28),4,0,Saudi-Arabia Al-Hilal
+Saudi Arabia,A,5,DF,Omar Hawsawi,27 September 1985 (aged 32),42,3,Saudi-Arabia Al-Nassr
+Saudi Arabia,A,6,DF,Mohammed Al-Breik,15 September 1992 (aged 25),11,1,Saudi-Arabia Al-Hilal
+Saudi Arabia,A,7,MF,Salman Al-Faraj,1 August 1989 (aged 28),43,3,Saudi-Arabia Al-Hilal
+Saudi Arabia,A,8,MF,Yahya Al-Shehri,26 June 1990 (aged 27),57,8,Spain Leganés
+Saudi Arabia,A,9,MF,Hattan Bahebri,16 July 1992 (aged 25),5,0,Saudi-Arabia Al-Shabab
+Saudi Arabia,A,10,FW,Mohammad Al-Sahlawi,10 January 1987 (aged 31),40,28,Saudi-Arabia Al-Nassr
+Saudi Arabia,A,11,MF,Abdulmalek Al-Khaibri,13 March 1986 (aged 32),36,0,Saudi-Arabia Al-Hilal
+Saudi Arabia,A,12,MF,Mohamed Kanno,22 September 1994 (aged 23),6,1,Saudi-Arabia Al-Hilal
+Saudi Arabia,A,13,DF,Yasser Al-Shahrani,25 May 1992 (aged 26),37,0,Saudi-Arabia Al-Hilal
+Saudi Arabia,A,14,MF,Abdullah Otayf,3 August 1992 (aged 25),16,1,Saudi-Arabia Al-Hilal
+Saudi Arabia,A,15,MF,Abdullah Al-Khaibari,16 August 1996 (aged 21),5,0,Saudi-Arabia Al-Shabab
+Saudi Arabia,A,16,MF,Housain Al-Mogahwi,24 March 1988 (aged 30),18,1,Saudi-Arabia Al-Ahli
+Saudi Arabia,A,17,MF,Taisir Al-Jassim,25 July 1984 (aged 33),132,19,Saudi-Arabia Al-Ahli
+Saudi Arabia,A,18,MF,Salem Al-Dawsari,19 August 1991 (aged 26),33,4,Spain Villarreal
+Saudi Arabia,A,19,FW,Fahad Al-Muwallad,14 September 1994 (aged 23),45,10,Spain Levante
+Saudi Arabia,A,20,FW,Muhannad Assiri,14 October 1986 (aged 31),18,4,Saudi-Arabia Al-Ahli
+Saudi Arabia,A,21,GK,Yasser Al-Mosailem,27 February 1984 (aged 34),32,0,Saudi-Arabia Al-Ahli
+Saudi Arabia,A,22,GK,Mohammed Al-Owais,10 October 1991 (aged 26),6,0,Saudi-Arabia Al-Ahli
+Saudi Arabia,A,23,DF,Motaz Hawsawi,17 February 1992 (aged 26),17,0,Saudi-Arabia Al-Ahli
+Uruguay,A,1,GK,Fernando Muslera,16 June 1986 (aged 31),97,0,Turkey Galatasaray
+Uruguay,A,2,DF,José Giménez,20 January 1995 (aged 23),42,5,Spain Atlético-Madrid
+Uruguay,A,3,DF,Diego Godín (captain),16 February 1986 (aged 32),116,8,Spain Atlético-Madrid
+Uruguay,A,4,DF,Guillermo Varela,24 March 1993 (aged 25),3,0,Uruguay Peñarol
+Uruguay,A,5,MF,Carlos Sánchez,2 December 1984 (aged 33),36,1,Mexico Monterrey
+Uruguay,A,6,MF,Rodrigo Bentancur,25 June 1997 (aged 20),7,0,Italy Juventus
+Uruguay,A,7,MF,Cristian Rodríguez,30 September 1985 (aged 32),105,11,Uruguay Peñarol
+Uruguay,A,8,MF,Nahitan Nández,28 December 1995 (aged 22),12,0,Argentina Boca-Juniors
+Uruguay,A,9,FW,Luis Suárez,24 January 1987 (aged 31),98,51,Spain Barcelona
+Uruguay,A,10,FW,Giorgian De Arrascaeta,1 June 1994 (aged 24),14,2,Brazil Cruzeiro
+Uruguay,A,11,FW,Cristhian Stuani,12 October 1986 (aged 31),41,5,Spain Girona
+Uruguay,A,12,GK,Martín Campaña,29 May 1989 (aged 29),1,0,Argentina Independiente
+Uruguay,A,13,DF,Gastón Silva,5 March 1994 (aged 24),17,0,Argentina Independiente
+Uruguay,A,14,MF,Lucas Torreira,11 February 1996 (aged 22),3,0,Italy Sampdoria
+Uruguay,A,15,MF,Matías Vecino,24 August 1991 (aged 26),22,1,Italy Inter-Milan
+Uruguay,A,16,DF,Maxi Pereira,8 June 1984 (aged 34),125,3,Portugal Porto
+Uruguay,A,17,MF,Diego Laxalt,7 February 1993 (aged 25),6,0,Italy Genoa
+Uruguay,A,18,FW,Maxi Gómez,14 August 1996 (aged 21),5,0,Spain Celta-Vigo
+Uruguay,A,19,DF,Sebastián Coates,7 October 1990 (aged 27),30,1,Portugal Sporting-CP
+Uruguay,A,20,FW,Jonathan Urretaviscaya,19 March 1990 (aged 28),4,0,Mexico Monterrey
+Uruguay,A,21,FW,Edinson Cavani,14 February 1987 (aged 31),101,42,France Paris-Saint-Germain
+Uruguay,A,22,DF,Martín Cáceres,7 April 1987 (aged 31),76,4,Italy Lazio
+Uruguay,A,23,GK,Martín Silva,25 March 1983 (aged 35),11,0,Brazil Vasco-da-Gama
+Iran,B,1,GK,Alireza Beiranvand,21 September 1992 (aged 25),22,0,Iran Persepolis
+Iran,B,2,MF,Mehdi Torabi,10 September 1994 (aged 23),17,4,Iran Saipa
+Iran,B,3,DF,Ehsan Hajsafi,25 February 1990 (aged 28),94,6,Greece Olympiacos
+Iran,B,4,DF,Rouzbeh Cheshmi,24 July 1993 (aged 24),10,1,Iran Esteghlal
+Iran,B,5,DF,Milad Mohammadi,29 September 1993 (aged 24),19,0,Russia Akhmat-Grozny
+Iran,B,6,MF,Saeid Ezatolahi,1 October 1996 (aged 21),25,1,Russia Amkar-Perm
+Iran,B,7,MF,Masoud Shojaei (captain),9 June 1984 (aged 34),74,8,Greece AEK-Athens
+Iran,B,8,DF,Morteza Pouraliganji,19 April 1992 (aged 26),27,2,Qatar Al-Sadd
+Iran,B,9,MF,Omid Ebrahimi,16 September 1987 (aged 30),30,0,Iran Esteghlal
+Iran,B,10,FW,Karim Ansarifard,3 April 1990 (aged 28),64,17,Greece Olympiacos
+Iran,B,11,MF,Vahid Amiri,2 April 1988 (aged 30),36,1,Iran Persepolis
+Iran,B,12,GK,Mohammad Rashid Mazaheri,18 May 1989 (aged 29),3,0,Iran Zob-Ahan
+Iran,B,13,DF,Mohammad Reza Khanzadeh,11 May 1991 (aged 27),11,1,Iran Padideh
+Iran,B,14,FW,Saman Ghoddos,6 September 1993 (aged 24),8,1,Sweden Östersund
+Iran,B,15,DF,Pejman Montazeri,6 September 1983 (aged 34),46,1,Iran Esteghlal
+Iran,B,16,FW,Reza Ghoochannejhad,20 September 1987 (aged 30),43,17,Netherlands Heerenveen
+Iran,B,17,FW,Mehdi Taremi,18 July 1992 (aged 25),26,11,Qatar Al-Gharafa
+Iran,B,18,FW,Alireza Jahanbakhsh,11 August 1993 (aged 24),38,4,Netherlands AZ
+Iran,B,19,DF,Majid Hosseini,20 June 1996 (aged 21),1,0,Iran Esteghlal
+Iran,B,20,FW,Sardar Azmoun,1 January 1995 (aged 23),33,23,Russia Rubin-Kazan
+Iran,B,21,FW,Ashkan Dejagah,5 July 1986 (aged 31),46,9,England Nottingham-Forest
+Iran,B,22,GK,Amir Abedzadeh,26 April 1993 (aged 25),1,0,Portugal Marítimo
+Iran,B,23,DF,Ramin Rezaeian,21 March 1990 (aged 28),28,2,Belgium Oostende
+Morocco,B,1,GK,Yassine Bounou,5 April 1991 (aged 27),11,0,Spain Girona
+Morocco,B,2,DF,Achraf Hakimi,4 November 1998 (aged 19),10,1,Spain Real-Madrid
+Morocco,B,3,DF,Hamza Mendyl,21 October 1997 (aged 20),13,0,France Lille
+Morocco,B,4,DF,Manuel da Costa,6 May 1986 (aged 32),28,1,Turkey İstanbul-Başakşehir
+Morocco,B,5,DF,Medhi Benatia (captain),17 April 1987 (aged 31),57,2,Italy Juventus
+Morocco,B,6,DF,Romain Saïss,26 March 1990 (aged 28),24,1,England Wolverhampton-Wanderers
+Morocco,B,7,MF,Hakim Ziyech,19 March 1993 (aged 25),18,9,Netherlands Ajax
+Morocco,B,8,MF,Karim El Ahmadi,27 January 1985 (aged 33),51,1,Netherlands Feyenoord
+Morocco,B,9,FW,Ayoub El Kaabi,25 June 1993 (aged 24),10,11,Morocco RS-Berkane
+Morocco,B,10,MF,Younès Belhanda,25 February 1990 (aged 28),47,5,Turkey Galatasaray
+Morocco,B,11,MF,Fayçal Fajr,1 August 1988 (aged 29),23,2,Spain Getafe
+Morocco,B,12,GK,Munir Mohamedi,10 May 1989 (aged 29),27,0,Spain Numancia
+Morocco,B,13,FW,Khalid Boutaïb,24 April 1987 (aged 31),18,7,Turkey Yeni-Malatyaspor
+Morocco,B,14,MF,Mbark Boussoufa,15 August 1984 (aged 33),59,7,United-Arab-Emirates Al-Jazira
+Morocco,B,15,MF,Youssef Aït Bennasser,7 July 1996 (aged 21),14,0,France Caen
+Morocco,B,16,MF,Nordin Amrabat,31 March 1987 (aged 31),44,4,Spain Leganés
+Morocco,B,17,DF,Nabil Dirar,25 February 1986 (aged 32),34,3,Turkey Fenerbahçe
+Morocco,B,18,MF,Amine Harit,18 June 1997 (aged 20),6,0,Germany Schalke-04
+Morocco,B,19,FW,Youssef En-Nesyri,1 June 1997 (aged 21),16,2,Spain Málaga
+Morocco,B,20,FW,Aziz Bouhaddouz,30 March 1987 (aged 31),15,3,Germany FC-St.-Pauli
+Morocco,B,21,MF,Sofyan Amrabat,21 August 1996 (aged 21),6,0,Netherlands Feyenoord
+Morocco,B,22,GK,Ahmed Reda Tagnaouti,5 April 1996 (aged 22),2,0,Morocco IR-Tanger
+Morocco,B,23,MF,Mehdi Carcela,1 July 1989 (aged 28),20,1,Belgium Standard-Liège
+Portugal,B,1,GK,Rui Patrício,15 February 1988 (aged 30),69,0,Portugal Sporting-CP
+Portugal,B,2,DF,Bruno Alves,27 November 1981 (aged 36),96,11,Scotland Rangers
+Portugal,B,3,DF,Pepe,26 February 1983 (aged 35),95,5,Turkey Beşiktaş
+Portugal,B,4,MF,Manuel Fernandes,5 February 1986 (aged 32),14,3,Russia Lokomotiv-Moscow
+Portugal,B,5,DF,Raphaël Guerreiro,22 December 1993 (aged 24),24,2,Germany Borussia-Dortmund
+Portugal,B,6,DF,José Fonte,22 December 1983 (aged 34),31,0,China Dalian-Yifang
+Portugal,B,7,FW,Cristiano Ronaldo (captain),5 February 1985 (aged 33),150,81,Spain Real-Madrid
+Portugal,B,8,MF,João Moutinho,8 September 1986 (aged 31),110,7,France Monaco
+Portugal,B,9,FW,André Silva,6 November 1995 (aged 22),23,12,Italy Milan
+Portugal,B,10,MF,João Mário,19 January 1993 (aged 25),36,2,England West-Ham-United
+Portugal,B,11,MF,Bernardo Silva,10 August 1994 (aged 23),25,2,England Manchester-City
+Portugal,B,12,GK,Anthony Lopes,1 October 1990 (aged 27),7,0,France Lyon
+Portugal,B,13,DF,Rúben Dias,14 May 1997 (aged 21),1,0,Portugal Benfica
+Portugal,B,14,MF,William Carvalho,7 April 1992 (aged 26),43,2,Portugal Sporting-CP
+Portugal,B,15,DF,Ricardo Pereira,6 October 1993 (aged 24),4,0,Portugal Porto
+Portugal,B,16,MF,Bruno Fernandes,8 September 1994 (aged 23),6,1,Portugal Sporting-CP
+Portugal,B,17,FW,Gonçalo Guedes,29 November 1996 (aged 21),10,3,Spain Valencia
+Portugal,B,18,FW,Gelson Martins,11 May 1995 (aged 23),18,0,Portugal Sporting-CP
+Portugal,B,19,DF,Mário Rui,27 May 1991 (aged 27),4,0,Italy Napoli
+Portugal,B,20,FW,Ricardo Quaresma,26 September 1983 (aged 34),77,9,Turkey Beşiktaş
+Portugal,B,21,DF,Cédric,31 August 1991 (aged 26),29,1,England Southampton
+Portugal,B,22,GK,Beto,1 May 1982 (aged 36),14,0,Turkey Göztepe
+Portugal,B,23,MF,Adrien Silva,15 March 1989 (aged 29),23,1,England Leicester-City
+Spain,B,1,GK,David de Gea,7 November 1990 (aged 27),29,0,England Manchester-United
+Spain,B,2,DF,Dani Carvajal,11 January 1992 (aged 26),15,0,Spain Real-Madrid
+Spain,B,3,DF,Gerard Piqué,2 February 1987 (aged 31),98,5,Spain Barcelona
+Spain,B,4,DF,Nacho,18 January 1990 (aged 28),17,0,Spain Real-Madrid
+Spain,B,5,MF,Sergio Busquets,16 July 1988 (aged 29),103,2,Spain Barcelona
+Spain,B,6,MF,Andrés Iniesta,11 May 1984 (aged 34),127,14,Spain Barcelona
+Spain,B,7,MF,Saúl,21 November 1994 (aged 23),10,0,Spain Atlético-Madrid
+Spain,B,8,MF,Koke,8 January 1992 (aged 26),40,0,Spain Atlético-Madrid
+Spain,B,9,FW,Rodrigo,6 March 1991 (aged 27),6,2,Spain Valencia
+Spain,B,10,MF,Thiago,11 April 1991 (aged 27),29,2,Germany Bayern-Munich
+Spain,B,11,FW,Lucas Vázquez,1 July 1991 (aged 26),7,0,Spain Real-Madrid
+Spain,B,12,DF,Álvaro Odriozola,14 December 1995 (aged 22),4,1,Spain Real-Sociedad
+Spain,B,13,GK,Kepa Arrizabalaga,3 October 1994 (aged 23),1,0,Spain Athletic-Bilbao
+Spain,B,14,DF,César Azpilicueta,28 August 1989 (aged 28),22,0,England Chelsea
+Spain,B,15,DF,Sergio Ramos (captain),30 March 1986 (aged 32),152,13,Spain Real-Madrid
+Spain,B,16,DF,Nacho Monreal,26 February 1986 (aged 32),22,1,England Arsenal
+Spain,B,17,FW,Iago Aspas,1 August 1987 (aged 30),10,5,Spain Celta-Vigo
+Spain,B,18,DF,Jordi Alba,21 March 1989 (aged 29),62,8,Spain Barcelona
+Spain,B,19,FW,Diego Costa,7 October 1988 (aged 29),20,7,Spain Atlético-Madrid
+Spain,B,20,MF,Marco Asensio,21 January 1996 (aged 22),12,0,Spain Real-Madrid
+Spain,B,21,FW,David Silva,8 January 1986 (aged 32),121,35,England Manchester-City
+Spain,B,22,MF,Isco,21 April 1992 (aged 26),28,10,Spain Real-Madrid
+Spain,B,23,GK,Pepe Reina,31 August 1982 (aged 35),36,0,Italy Napoli
+Australia,C,1,GK,Mathew Ryan,8 April 1992 (aged 26),44,0,England Brighton-&-Hove-Albion
+Australia,C,2,DF,Milos Degenek,28 April 1994 (aged 24),18,0,Japan Yokohama-F.-Marinos
+Australia,C,3,DF,James Meredith,5 April 1988 (aged 30),2,0,England Millwall
+Australia,C,4,FW,Tim Cahill,6 December 1979 (aged 38),106,50,England Millwall
+Australia,C,5,DF,Mark Milligan,4 August 1985 (aged 32),71,6,Saudi-Arabia Al-Ahli
+Australia,C,6,DF,Matthew Jurman,8 December 1989 (aged 28),4,0,South-Korea Suwon-Samsung-Bluewings
+Australia,C,7,FW,Mathew Leckie,4 February 1991 (aged 27),53,8,Germany Hertha-BSC
+Australia,C,8,MF,Massimo Luongo,25 September 1992 (aged 25),36,5,England Queens-Park-Rangers
+Australia,C,9,FW,Tomi Juric,22 July 1991 (aged 26),35,8,Switzerland Luzern
+Australia,C,10,FW,Robbie Kruse,5 October 1988 (aged 29),64,5,Germany VfL-Bochum
+Australia,C,11,FW,Andrew Nabbout,17 December 1992 (aged 25),4,1,Japan Urawa-Red-Diamonds
+Australia,C,12,GK,Brad Jones,19 March 1982 (aged 36),6,0,Netherlands Feyenoord
+Australia,C,13,MF,Aaron Mooy,15 September 1990 (aged 27),34,5,England Huddersfield-Town
+Australia,C,14,FW,Jamie Maclaren,29 July 1993 (aged 24),6,0,Scotland Hibernian
+Australia,C,15,MF,Mile Jedinak (captain),3 August 1984 (aged 33),76,18,England Aston-Villa
+Australia,C,16,DF,Aziz Behich,16 December 1990 (aged 27),23,2,Turkey Bursaspor
+Australia,C,17,FW,Daniel Arzani,4 January 1999 (aged 19),2,1,Australia Melbourne-City
+Australia,C,18,GK,Danny Vukovic,27 March 1985 (aged 33),1,0,Belgium Genk
+Australia,C,19,DF,Josh Risdon,27 July 1992 (aged 25),8,0,Australia Western-Sydney-Wanderers
+Australia,C,20,DF,Trent Sainsbury,5 January 1992 (aged 26),35,3,Switzerland Grasshoppers
+Australia,C,21,FW,Dimitri Petratos,10 November 1992 (aged 25),2,0,Australia Newcastle-Jets
+Australia,C,22,MF,Jackson Irvine,7 March 1993 (aged 25),19,2,England Hull-City
+Australia,C,23,MF,Tom Rogic,16 December 1992 (aged 25),37,7,Scotland Celtic
+Denmark,C,1,GK,Kasper Schmeichel,5 November 1986 (aged 31),35,0,England Leicester-City
+Denmark,C,2,MF,Michael Krohn-Dehli,6 June 1983 (aged 35),59,6,Spain Deportivo-La-Coruña
+Denmark,C,3,DF,Jannik Vestergaard,3 August 1992 (aged 25),16,1,Germany Borussia-Mönchengladbach
+Denmark,C,4,DF,Simon Kjær (captain),26 March 1989 (aged 29),78,3,Spain Sevilla
+Denmark,C,5,DF,Jonas Knudsen,16 September 1992 (aged 25),3,0,England Ipswich-Town
+Denmark,C,6,DF,Andreas Christensen,10 April 1996 (aged 22),16,1,England Chelsea
+Denmark,C,7,MF,William Kvist,24 February 1985 (aged 33),80,2,Denmark Copenhagen
+Denmark,C,8,MF,Thomas Delaney,3 September 1991 (aged 26),27,4,Germany Werder-Bremen
+Denmark,C,9,FW,Nicolai Jørgensen,15 January 1991 (aged 27),31,8,Netherlands Feyenoord
+Denmark,C,10,MF,Christian Eriksen,14 February 1992 (aged 26),78,22,England Tottenham-Hotspur
+Denmark,C,11,FW,Martin Braithwaite,5 June 1991 (aged 27),20,1,France Bordeaux
+Denmark,C,12,FW,Kasper Dolberg,6 October 1997 (aged 20),6,1,Netherlands Ajax
+Denmark,C,13,DF,Mathias Jørgensen,23 April 1990 (aged 28),12,0,England Huddersfield-Town
+Denmark,C,14,DF,Henrik Dalsgaard,27 July 1989 (aged 28),11,0,England Brentford
+Denmark,C,15,FW,Viktor Fischer,9 June 1994 (aged 24),19,3,Denmark Copenhagen
+Denmark,C,16,GK,Jonas Lössl,1 February 1989 (aged 29),1,0,England Huddersfield-Town
+Denmark,C,17,DF,Jens Stryger Larsen,21 February 1991 (aged 27),13,1,Italy Udinese
+Denmark,C,18,MF,Lukas Lerager,12 July 1993 (aged 24),4,0,France Bordeaux
+Denmark,C,19,MF,Lasse Schöne,27 May 1986 (aged 32),36,3,Netherlands Ajax
+Denmark,C,20,FW,Yussuf Poulsen,15 June 1994 (aged 23),28,4,Germany RB-Leipzig
+Denmark,C,21,FW,Andreas Cornelius,16 March 1993 (aged 25),18,4,Italy Atalanta
+Denmark,C,22,GK,Frederik Rønnow,4 August 1992 (aged 25),6,0,Denmark Brøndby
+Denmark,C,23,FW,Pione Sisto,4 February 1995 (aged 23),14,1,Spain Celta-Vigo
+France,C,1,GK,Hugo Lloris (captain),26 December 1986 (aged 31),98,0,England Tottenham-Hotspur
+France,C,2,DF,Benjamin Pavard,28 March 1996 (aged 22),6,0,Germany VfB-Stuttgart
+France,C,3,DF,Presnel Kimpembe,13 August 1995 (aged 22),2,0,France Paris-Saint-Germain
+France,C,4,DF,Raphaël Varane,25 April 1993 (aged 25),42,2,Spain Real-Madrid
+France,C,5,DF,Samuel Umtiti,14 November 1993 (aged 24),19,2,Spain Barcelona
+France,C,6,MF,Paul Pogba,15 March 1993 (aged 25),54,9,England Manchester-United
+France,C,7,FW,Antoine Griezmann,21 March 1991 (aged 27),54,20,Spain Atlético-Madrid
+France,C,8,FW,Thomas Lemar,12 November 1995 (aged 22),12,3,France Monaco
+France,C,9,FW,Olivier Giroud,30 September 1986 (aged 31),74,31,England Chelsea
+France,C,10,FW,Kylian Mbappé,20 December 1998 (aged 19),15,4,France Paris-Saint-Germain
+France,C,11,FW,Ousmane Dembélé,15 May 1997 (aged 21),12,2,Spain Barcelona
+France,C,12,MF,Corentin Tolisso,3 August 1994 (aged 23),9,0,Germany Bayern-Munich
+France,C,13,MF,N'Golo Kanté,29 March 1991 (aged 27),24,1,England Chelsea
+France,C,14,MF,Blaise Matuidi,9 April 1987 (aged 31),67,9,Italy Juventus
+France,C,15,MF,Steven Nzonzi,15 December 1988 (aged 29),4,0,Spain Sevilla
+France,C,16,GK,Steve Mandanda,28 March 1985 (aged 33),27,0,France Marseille
+France,C,17,DF,Adil Rami,27 December 1985 (aged 32),35,1,France Marseille
+France,C,18,FW,Nabil Fekir,18 July 1993 (aged 24),12,2,France Lyon
+France,C,19,DF,Djibril Sidibé,29 July 1992 (aged 25),17,1,France Monaco
+France,C,20,FW,Florian Thauvin,26 January 1993 (aged 25),4,0,France Marseille
+France,C,21,DF,Lucas Hernández,14 February 1996 (aged 22),5,0,Spain Atlético-Madrid
+France,C,22,DF,Benjamin Mendy,17 July 1994 (aged 23),7,0,England Manchester-City
+France,C,23,GK,Alphonse Areola,27 February 1993 (aged 25),0,0,France Paris-Saint-Germain
+Peru,C,1,GK,Pedro Gallese,23 February 1990 (aged 28),38,0,Mexico Veracruz
+Peru,C,2,DF,Alberto Rodríguez,31 March 1984 (aged 34),59,0,Colombia Atlético-Junior
+Peru,C,3,DF,Aldo Corzo,20 May 1989 (aged 29),25,0,Peru Universitario
+Peru,C,4,DF,Anderson Santamaría,10 January 1992 (aged 26),4,0,Mexico Puebla
+Peru,C,5,DF,Miguel Araujo,24 October 1994 (aged 23),7,0,Peru Alianza-Lima
+Peru,C,6,DF,Miguel Trauco,25 August 1992 (aged 25),27,0,Brazil Flamengo
+Peru,C,7,MF,Paolo Hurtado,27 July 1990 (aged 27),31,3,Portugal Vitória-de-Guimarães
+Peru,C,8,MF,Christian Cueva,23 November 1991 (aged 26),44,8,Brazil São-Paulo
+Peru,C,9,FW,Paolo Guerrero (captain),1 January 1984 (aged 34),88,34,Brazil Flamengo
+Peru,C,10,FW,Jefferson Farfán,26 October 1984 (aged 33),84,25,Russia Lokomotiv-Moscow
+Peru,C,11,FW,Raúl Ruidíaz,25 July 1990 (aged 27),30,4,Mexico Morelia
+Peru,C,12,GK,Carlos Cáceda,27 September 1991 (aged 26),4,0,Peru Deportivo-Municipal
+Peru,C,13,MF,Renato Tapia,28 July 1995 (aged 22),23,1,Netherlands Feyenoord
+Peru,C,14,MF,Andy Polo,29 September 1994 (aged 23),17,1,United-States Portland-Timbers
+Peru,C,15,DF,Christian Ramos,4 November 1988 (aged 29),66,3,Mexico Veracruz
+Peru,C,16,MF,Wilder Cartagena,23 September 1994 (aged 23),3,0,Mexico Veracruz
+Peru,C,17,DF,Luis Advíncula,2 March 1990 (aged 28),65,0,Mexico Lobos-BUAP
+Peru,C,18,FW,André Carrillo,14 June 1991 (aged 27),45,5,England Watford
+Peru,C,19,MF,Yoshimar Yotún,7 April 1990 (aged 28),73,2,United-States Orlando-City
+Peru,C,20,FW,Edison Flores,14 May 1994 (aged 24),29,9,Denmark AaB
+Peru,C,21,GK,José Carvallo,1 March 1986 (aged 32),6,0,Peru UTC
+Peru,C,22,DF,Nilson Loyola,26 October 1994 (aged 23),3,0,Peru Melgar
+Peru,C,23,MF,Pedro Aquino,13 April 1995 (aged 23),13,0,Mexico Lobos-BUAP
+Argentina,D,1,GK,Nahuel Guzmán,10 February 1986 (aged 32),6,0,Mexico UANL
+Argentina,D,2,DF,Gabriel Mercado,18 March 1987 (aged 31),20,3,Spain Sevilla
+Argentina,D,3,DF,Nicolás Tagliafico,31 August 1992 (aged 25),4,0,Netherlands Ajax
+Argentina,D,4,DF,Cristian Ansaldi,20 September 1986 (aged 31),5,0,Italy Torino
+Argentina,D,5,MF,Lucas Biglia,30 January 1986 (aged 32),57,1,Italy Milan
+Argentina,D,6,DF,Federico Fazio,17 March 1987 (aged 31),9,1,Italy Roma
+Argentina,D,7,MF,Éver Banega,29 June 1988 (aged 29),62,6,Spain Sevilla
+Argentina,D,8,DF,Marcos Acuña,28 October 1991 (aged 26),10,0,Portugal Sporting-CP
+Argentina,D,9,FW,Gonzalo Higuaín,10 December 1987 (aged 30),71,31,Italy Juventus
+Argentina,D,10,FW,Lionel Messi (captain),24 June 1987 (aged 30),124,64,Spain Barcelona
+Argentina,D,11,MF,Ángel Di María,14 February 1988 (aged 30),94,19,France Paris-Saint-Germain
+Argentina,D,12,GK,Franco Armani,16 October 1986 (aged 31),0,0,Argentina River-Plate
+Argentina,D,13,MF,Maximiliano Meza,15 December 1992 (aged 25),2,0,Argentina Independiente
+Argentina,D,14,DF,Javier Mascherano,8 June 1984 (aged 34),143,3,China Hebei-China-Fortune
+Argentina,D,15,MF,Enzo Pérez,22 February 1986 (aged 32),23,1,Argentina River-Plate
+Argentina,D,16,DF,Marcos Rojo,20 March 1990 (aged 28),56,2,England Manchester-United
+Argentina,D,17,DF,Nicolás Otamendi,12 February 1988 (aged 30),54,4,England Manchester-City
+Argentina,D,18,DF,Eduardo Salvio,13 July 1990 (aged 27),9,0,Portugal Benfica
+Argentina,D,19,FW,Sergio Agüero,2 June 1988 (aged 30),85,37,England Manchester-City
+Argentina,D,20,MF,Giovani Lo Celso,9 April 1996 (aged 22),5,0,France Paris-Saint-Germain
+Argentina,D,21,FW,Paulo Dybala,15 November 1993 (aged 24),12,0,Italy Juventus
+Argentina,D,22,MF,Cristian Pavón,21 January 1996 (aged 22),5,0,Argentina Boca-Juniors
+Argentina,D,23,GK,Willy Caballero,28 September 1981 (aged 36),3,0,England Chelsea
+Croatia,D,1,GK,Dominik Livaković,9 January 1995 (aged 23),1,0,Croatia Dinamo-Zagreb
+Croatia,D,2,DF,Šime Vrsaljko,10 January 1992 (aged 26),35,0,Spain Atlético-Madrid
+Croatia,D,3,DF,Ivan Strinić,17 July 1987 (aged 30),43,0,Italy Sampdoria
+Croatia,D,4,FW,Ivan Perišić,2 February 1989 (aged 29),66,18,Italy Inter-Milan
+Croatia,D,5,DF,Vedran Ćorluka,5 February 1986 (aged 32),99,4,Russia Lokomotiv-Moscow
+Croatia,D,6,DF,Dejan Lovren,5 July 1989 (aged 28),39,2,England Liverpool
+Croatia,D,7,MF,Ivan Rakitić,10 March 1988 (aged 30),92,14,Spain Barcelona
+Croatia,D,8,MF,Mateo Kovačić,6 May 1994 (aged 24),41,1,Spain Real-Madrid
+Croatia,D,9,FW,Andrej Kramarić,19 June 1991 (aged 26),31,9,Germany 1899-Hoffenheim
+Croatia,D,10,MF,Luka Modrić (captain),9 September 1985 (aged 32),106,12,Spain Real-Madrid
+Croatia,D,11,MF,Marcelo Brozović,16 November 1992 (aged 25),35,6,Italy Inter-Milan
+Croatia,D,12,GK,Lovre Kalinić,3 April 1990 (aged 28),11,0,Belgium Gent
+Croatia,D,13,DF,Tin Jedvaj,28 November 1995 (aged 22),12,0,Germany Bayer-Leverkusen
+Croatia,D,14,MF,Filip Bradarić,11 January 1992 (aged 26),4,0,Croatia Rijeka
+Croatia,D,15,DF,Duje Ćaleta-Car,17 September 1996 (aged 21),1,0,Austria Red-Bull-Salzburg
+Croatia,D,16,FW,Nikola Kalinić,5 January 1988 (aged 30),42,15,Italy Milan
+Croatia,D,17,FW,Mario Mandžukić,21 May 1986 (aged 32),83,30,Italy Juventus
+Croatia,D,18,FW,Ante Rebić,21 September 1993 (aged 24),16,1,Germany Eintracht-Frankfurt
+Croatia,D,19,MF,Milan Badelj,25 February 1989 (aged 29),38,1,Italy Fiorentina
+Croatia,D,20,FW,Marko Pjaca,6 May 1995 (aged 23),16,1,Germany Schalke-04
+Croatia,D,21,DF,Domagoj Vida,29 April 1989 (aged 29),59,2,Turkey Beşiktaş
+Croatia,D,22,DF,Josip Pivarić,30 January 1989 (aged 29),19,0,Ukraine Dynamo-Kyiv
+Croatia,D,23,GK,Danijel Subašić,27 October 1984 (aged 33),38,0,France Monaco
+Iceland,D,1,GK,Hannes Þór Halldórsson,27 April 1984 (aged 34),49,0,Denmark Randers
+Iceland,D,2,DF,Birkir Már Sævarsson,11 November 1984 (aged 33),79,1,Iceland Valur
+Iceland,D,3,MF,Samúel Friðjónsson,22 February 1996 (aged 22),4,0,Norway Vålerenga
+Iceland,D,4,MF,Albert Guðmundsson,15 June 1997 (aged 20),5,3,Netherlands PSV-Eindhoven
+Iceland,D,5,DF,Sverrir Ingi Ingason,5 August 1993 (aged 24),20,3,Russia Rostov
+Iceland,D,6,DF,Ragnar Sigurðsson,19 June 1986 (aged 31),77,3,Russia Rostov
+Iceland,D,7,MF,Jóhann Berg Guðmundsson,27 October 1990 (aged 27),67,7,England Burnley
+Iceland,D,8,MF,Birkir Bjarnason,27 May 1988 (aged 30),67,9,England Aston-Villa
+Iceland,D,9,FW,Björn Bergmann Sigurðarson,26 February 1991 (aged 27),12,1,Russia Rostov
+Iceland,D,10,MF,Gylfi Sigurðsson,8 September 1989 (aged 28),57,19,England Everton
+Iceland,D,11,FW,Alfreð Finnbogason,1 February 1989 (aged 29),47,13,Germany FC-Augsburg
+Iceland,D,12,GK,Frederik Schram,19 January 1995 (aged 23),4,0,Denmark Roskilde
+Iceland,D,13,GK,Rúnar Alex Rúnarsson,18 February 1995 (aged 23),3,0,Denmark Nordsjælland
+Iceland,D,14,DF,Kári Árnason,13 October 1982 (aged 35),67,5,Scotland Aberdeen
+Iceland,D,15,DF,Hólmar Örn Eyjólfsson,6 August 1990 (aged 27),10,1,Bulgaria Levski-Sofia
+Iceland,D,16,MF,Ólafur Ingi Skúlason,1 April 1983 (aged 35),36,1,Turkey Kardemir-Karabükspor
+Iceland,D,17,MF,Aron Gunnarsson (captain),22 April 1989 (aged 29),77,2,Wales Cardiff-City
+Iceland,D,18,DF,Hörður Björgvin Magnússon,11 February 1993 (aged 25),16,2,England Bristol-City
+Iceland,D,19,MF,Rúrik Gíslason,25 February 1988 (aged 30),47,3,Germany SV-Sandhausen
+Iceland,D,20,MF,Emil Hallfreðsson,29 June 1984 (aged 33),64,1,Italy Udinese
+Iceland,D,21,MF,Arnór Ingvi Traustason,30 April 1993 (aged 25),19,5,Sweden Malmö
+Iceland,D,22,FW,Jón Daði Böðvarsson,25 May 1992 (aged 26),38,2,England Reading
+Iceland,D,23,DF,Ari Freyr Skúlason,14 May 1987 (aged 31),56,0,Belgium Lokeren
+Nigeria,D,1,GK,Ikechukwu Ezenwa,16 October 1988 (aged 29),24,0,Nigeria Enyimba
+Nigeria,D,2,DF,Brian Idowu,18 May 1992 (aged 26),5,1,Russia Amkar-Perm
+Nigeria,D,3,DF,Elderson Echiéjilé,20 January 1988 (aged 30),62,3,Belgium Cercle-Brugge
+Nigeria,D,4,MF,Wilfred Ndidi,16 December 1996 (aged 21),17,0,England Leicester-City
+Nigeria,D,5,DF,William Troost-Ekong,1 September 1993 (aged 24),22,1,Turkey Bursaspor
+Nigeria,D,6,DF,Leon Balogun,28 June 1988 (aged 29),19,0,Germany Mainz-05
+Nigeria,D,7,FW,Ahmed Musa,14 October 1992 (aged 25),72,13,Russia CSKA-Moscow
+Nigeria,D,8,MF,Oghenekaro Etebo,9 November 1995 (aged 22),14,1,Spain Las-Palmas
+Nigeria,D,9,FW,Odion Ighalo,16 June 1989 (aged 28),19,4,China Changchun-Yatai
+Nigeria,D,10,MF,John Obi Mikel (captain),22 April 1987 (aged 31),85,6,China Tianjin-TEDA
+Nigeria,D,11,FW,Victor Moses,12 December 1990 (aged 27),34,11,England Chelsea
+Nigeria,D,12,DF,Shehu Abdullahi,12 March 1993 (aged 25),25,0,Turkey Bursaspor
+Nigeria,D,13,FW,Simeon Nwankwo,7 May 1992 (aged 26),2,0,Italy Crotone
+Nigeria,D,14,FW,Kelechi Iheanacho,10 March 1996 (aged 22),18,8,England Leicester-City
+Nigeria,D,15,MF,Joel Obi,22 May 1991 (aged 27),17,0,Italy Torino
+Nigeria,D,16,GK,Daniel Akpeyi,8 March 1986 (aged 32),7,0,South-Africa Chippa-United
+Nigeria,D,17,MF,Ogenyi Onazi,25 December 1992 (aged 25),52,1,Turkey Trabzonspor
+Nigeria,D,18,FW,Alex Iwobi,3 May 1996 (aged 22),19,5,England Arsenal
+Nigeria,D,19,MF,John Ogu,20 April 1988 (aged 30),20,2,Israel Hapoel-Be'er-Sheva
+Nigeria,D,20,DF,Chidozie Awaziem,1 January 1997 (aged 21),4,0,France Nantes
+Nigeria,D,21,DF,Tyronne Ebuehi,16 December 1995 (aged 22),7,0,Netherlands ADO-Den-Haag
+Nigeria,D,22,DF,Kenneth Omeruo,17 October 1993 (aged 24),39,0,Turkey Kasımpaşa
+Nigeria,D,23,GK,Francis Uzoho,28 October 1998 (aged 19),6,0,Spain Deportivo-La-Coruña
+Brazil,E,1,GK,Alisson,2 October 1992 (aged 25),26,0,Italy Roma
+Brazil,E,2,DF,Thiago Silva,22 September 1984 (aged 33),71,5,France Paris-Saint-Germain
+Brazil,E,3,DF,Miranda,7 September 1984 (aged 33),47,2,Italy Inter-Milan
+Brazil,E,4,DF,Pedro Geromel,21 September 1985 (aged 32),2,0,Brazil Grêmio
+Brazil,E,5,MF,Casemiro,23 February 1992 (aged 26),24,0,Spain Real-Madrid
+Brazil,E,6,DF,Filipe Luís,9 August 1985 (aged 32),33,2,Spain Atlético-Madrid
+Brazil,E,7,FW,Douglas Costa,14 September 1990 (aged 27),25,3,Italy Juventus
+Brazil,E,8,MF,Renato Augusto,8 February 1988 (aged 30),28,5,China Beijing-Sinobo-Guoan
+Brazil,E,9,FW,Gabriel Jesus,3 April 1997 (aged 21),17,10,England Manchester-City
+Brazil,E,10,FW,Neymar (captain),5 February 1992 (aged 26),85,55,France Paris-Saint-Germain
+Brazil,E,11,MF,Philippe Coutinho,12 June 1992 (aged 26),37,10,Spain Barcelona
+Brazil,E,12,DF,Marcelo,12 May 1988 (aged 30),54,6,Spain Real-Madrid
+Brazil,E,13,DF,Marquinhos,14 May 1994 (aged 24),26,0,France Paris-Saint-Germain
+Brazil,E,14,DF,Danilo,15 July 1991 (aged 26),18,0,England Manchester-City
+Brazil,E,15,MF,Paulinho,25 July 1988 (aged 29),50,12,Spain Barcelona
+Brazil,E,16,GK,Cássio,6 June 1987 (aged 31),1,0,Brazil Corinthians
+Brazil,E,17,MF,Fernandinho,4 May 1985 (aged 33),44,2,England Manchester-City
+Brazil,E,18,MF,Fred,5 March 1993 (aged 25),8,0,Ukraine Shakhtar-Donetsk
+Brazil,E,19,MF,Willian,9 August 1988 (aged 29),57,8,England Chelsea
+Brazil,E,20,FW,Roberto Firmino,2 October 1991 (aged 26),21,6,England Liverpool
+Brazil,E,21,FW,Taison,13 January 1988 (aged 30),8,1,Ukraine Shakhtar-Donetsk
+Brazil,E,22,DF,Fagner,11 June 1989 (aged 29),4,0,Brazil Corinthians
+Brazil,E,23,GK,Ederson,17 August 1993 (aged 24),1,0,England Manchester-City
+Costa Rica,E,1,GK,Keylor Navas,15 December 1986 (aged 31),81,0,Spain Real-Madrid
+Costa Rica,E,2,DF,Johnny Acosta,21 July 1983 (aged 34),69,2,Colombia Águilas-Doradas
+Costa Rica,E,3,DF,Giancarlo González,8 February 1988 (aged 30),70,2,Italy Bologna
+Costa Rica,E,4,DF,Ian Smith,6 March 1998 (aged 20),4,0,Sweden Norrköping
+Costa Rica,E,5,MF,Celso Borges,27 May 1988 (aged 30),113,21,Spain Deportivo-La-Coruña
+Costa Rica,E,6,DF,Óscar Duarte,3 June 1989 (aged 29),39,2,Spain Espanyol
+Costa Rica,E,7,MF,Christian Bolaños,17 May 1984 (aged 34),81,6,Costa-Rica Saprissa
+Costa Rica,E,8,DF,Bryan Oviedo,18 February 1990 (aged 28),44,1,England Sunderland
+Costa Rica,E,9,MF,Daniel Colindres,10 January 1985 (aged 33),11,0,Costa-Rica Saprissa
+Costa Rica,E,10,MF,Bryan Ruiz (captain),18 August 1985 (aged 32),110,24,Portugal Sporting-CP
+Costa Rica,E,11,FW,Johan Venegas,27 November 1988 (aged 29),47,10,Costa-Rica Saprissa
+Costa Rica,E,12,FW,Joel Campbell,26 June 1992 (aged 25),77,15,Spain Real-Betis
+Costa Rica,E,13,MF,Rodney Wallace,17 June 1988 (aged 29),30,4,United-States New-York-City-FC
+Costa Rica,E,14,MF,Randall Azofeifa,30 December 1984 (aged 33),58,3,Costa-Rica Herediano
+Costa Rica,E,15,DF,Francisco Calvo,8 July 1992 (aged 25),38,4,United-States Minnesota-United
+Costa Rica,E,16,DF,Cristian Gamboa,24 October 1989 (aged 28),68,3,Scotland Celtic
+Costa Rica,E,17,MF,Yeltsin Tejeda,17 March 1992 (aged 26),51,0,Switzerland Lausanne
+Costa Rica,E,18,GK,Patrick Pemberton,24 April 1982 (aged 36),39,0,Costa-Rica Alajuelense
+Costa Rica,E,19,DF,Kendall Waston,1 January 1988 (aged 30),26,3,Canada Vancouver-Whitecaps-FC
+Costa Rica,E,20,MF,David Guzmán,18 February 1990 (aged 28),43,0,United-States Portland-Timbers
+Costa Rica,E,21,FW,Marco Ureña,5 March 1990 (aged 28),64,15,United-States Los-Angeles-FC
+Costa Rica,E,22,DF,Kenner Gutiérrez,9 June 1989 (aged 29),9,0,Costa-Rica Alajuelense
+Costa Rica,E,23,GK,Leonel Moreira,2 April 1990 (aged 28),9,0,Costa-Rica Herediano
+Serbia,E,1,GK,Vladimir Stojković,28 July 1983 (aged 34),81,0,Serbia Partizan
+Serbia,E,2,DF,Antonio Rukavina,26 January 1984 (aged 34),47,0,Spain Villarreal
+Serbia,E,3,DF,Duško Tošić,19 January 1985 (aged 33),24,1,Turkey Beşiktaş
+Serbia,E,4,MF,Luka Milivojević,7 April 1991 (aged 27),28,1,England Crystal-Palace
+Serbia,E,5,DF,Uroš Spajić,13 February 1993 (aged 25),5,0,Belgium Anderlecht
+Serbia,E,6,DF,Branislav Ivanović,22 February 1984 (aged 34),103,13,Russia Zenit-Saint-Petersburg
+Serbia,E,7,MF,Andrija Živković,11 July 1996 (aged 21),10,0,Portugal Benfica
+Serbia,E,8,FW,Aleksandar Prijović,21 April 1990 (aged 28),9,1,Greece PAOK
+Serbia,E,9,FW,Aleksandar Mitrović,16 September 1994 (aged 23),37,16,England Fulham
+Serbia,E,10,MF,Dušan Tadić,20 November 1988 (aged 29),53,13,England Southampton
+Serbia,E,11,DF,Aleksandar Kolarov (captain),10 November 1985 (aged 32),76,10,Italy Roma
+Serbia,E,12,GK,Predrag Rajković,31 October 1995 (aged 22),8,0,Israel Maccabi-Tel-Aviv
+Serbia,E,13,DF,Miloš Veljković,26 September 1995 (aged 22),2,0,Germany Werder-Bremen
+Serbia,E,14,DF,Milan Rodić,2 April 1991 (aged 27),1,0,Serbia Red-Star-Belgrade
+Serbia,E,15,DF,Nikola Milenković,12 October 1997 (aged 20),3,0,Italy Fiorentina
+Serbia,E,16,MF,Marko Grujić,13 April 1996 (aged 22),8,0,Wales Cardiff-City
+Serbia,E,17,MF,Filip Kostić,1 November 1992 (aged 25),23,2,Germany Hamburger-SV
+Serbia,E,18,FW,Nemanja Radonjić,15 February 1996 (aged 22),3,0,Serbia Red-Star-Belgrade
+Serbia,E,19,FW,Luka Jović,23 December 1997 (aged 20),1,0,Germany Eintracht-Frankfurt
+Serbia,E,20,MF,Sergej Milinković-Savić,27 February 1995 (aged 23),4,0,Italy Lazio
+Serbia,E,21,MF,Nemanja Matić,1 August 1988 (aged 29),40,2,England Manchester-United
+Serbia,E,22,MF,Adem Ljajić,29 September 1991 (aged 26),29,6,Italy Torino
+Serbia,E,23,GK,Marko Dmitrović,24 January 1992 (aged 26),2,0,Spain Eibar
+Switzerland,E,1,GK,Yann Sommer,17 December 1988 (aged 29),35,0,Germany Borussia-Mönchengladbach
+Switzerland,E,2,DF,Stephan Lichtsteiner (captain),16 January 1984 (aged 34),100,8,Italy Juventus
+Switzerland,E,3,DF,François Moubandje,21 June 1990 (aged 27),18,0,France Toulouse
+Switzerland,E,4,DF,Nico Elvedi,30 September 1996 (aged 21),6,0,Germany Borussia-Mönchengladbach
+Switzerland,E,5,DF,Manuel Akanji,19 July 1995 (aged 22),7,0,Germany Borussia-Dortmund
+Switzerland,E,6,DF,Michael Lang,8 February 1991 (aged 27),24,2,Switzerland Basel
+Switzerland,E,7,FW,Breel Embolo,14 February 1997 (aged 21),25,3,Germany Schalke-04
+Switzerland,E,8,MF,Remo Freuler,15 April 1992 (aged 26),10,0,Italy Atalanta
+Switzerland,E,9,FW,Haris Seferović,22 February 1992 (aged 26),51,12,Portugal Benfica
+Switzerland,E,10,MF,Granit Xhaka,27 September 1992 (aged 25),62,9,England Arsenal
+Switzerland,E,11,MF,Valon Behrami,19 April 1985 (aged 33),79,2,Italy Udinese
+Switzerland,E,12,GK,Yvon Mvogo,6 June 1994 (aged 24),0,0,Germany RB-Leipzig
+Switzerland,E,13,DF,Ricardo Rodríguez,25 August 1992 (aged 25),53,5,Italy Milan
+Switzerland,E,14,MF,Steven Zuber,17 August 1991 (aged 26),12,3,Germany 1899-Hoffenheim
+Switzerland,E,15,MF,Blerim Džemaili,12 April 1986 (aged 32),65,9,Italy Bologna
+Switzerland,E,16,MF,Gelson Fernandes,2 September 1986 (aged 31),67,2,Germany Eintracht-Frankfurt
+Switzerland,E,17,MF,Denis Zakaria,20 November 1996 (aged 21),10,0,Germany Borussia-Mönchengladbach
+Switzerland,E,18,FW,Mario Gavranović,24 November 1989 (aged 28),14,5,Croatia Dinamo-Zagreb
+Switzerland,E,19,FW,Josip Drmić,8 August 1992 (aged 25),29,9,Germany Borussia-Mönchengladbach
+Switzerland,E,20,DF,Johan Djourou,18 January 1987 (aged 31),74,2,Turkey Antalyaspor
+Switzerland,E,21,GK,Roman Bürki,14 November 1990 (aged 27),9,0,Germany Borussia-Dortmund
+Switzerland,E,22,DF,Fabian Schär,20 December 1991 (aged 26),39,7,Spain Deportivo-La-Coruña
+Switzerland,E,23,MF,Xherdan Shaqiri,10 October 1991 (aged 26),70,20,England Stoke-City
+Germany,F,1,GK,Manuel Neuer (captain),27 March 1986 (aged 32),76,0,Germany Bayern-Munich
+Germany,F,2,DF,Marvin Plattenhardt,26 January 1992 (aged 26),6,0,Germany Hertha-BSC
+Germany,F,3,DF,Jonas Hector,27 May 1990 (aged 28),38,3,Germany 1.-FC-Köln
+Germany,F,4,DF,Matthias Ginter,19 January 1994 (aged 24),18,0,Germany Borussia-Mönchengladbach
+Germany,F,5,DF,Mats Hummels,16 December 1988 (aged 29),64,5,Germany Bayern-Munich
+Germany,F,6,MF,Sami Khedira,4 April 1987 (aged 31),75,7,Italy Juventus
+Germany,F,7,MF,Julian Draxler,20 September 1993 (aged 24),44,6,France Paris-Saint-Germain
+Germany,F,8,MF,Toni Kroos,4 January 1990 (aged 28),83,12,Spain Real-Madrid
+Germany,F,9,FW,Timo Werner,6 March 1996 (aged 22),14,8,Germany RB-Leipzig
+Germany,F,10,MF,Mesut Özil,15 October 1988 (aged 29),90,23,England Arsenal
+Germany,F,11,FW,Marco Reus,31 May 1989 (aged 29),31,9,Germany Borussia-Dortmund
+Germany,F,12,GK,Kevin Trapp,8 July 1990 (aged 27),3,0,France Paris-Saint-Germain
+Germany,F,13,MF,Thomas Müller,13 September 1989 (aged 28),91,38,Germany Bayern-Munich
+Germany,F,14,MF,Leon Goretzka,6 February 1995 (aged 23),15,6,Germany Schalke-04
+Germany,F,15,DF,Niklas Süle,3 September 1995 (aged 22),11,0,Germany Bayern-Munich
+Germany,F,16,DF,Antonio Rüdiger,3 March 1993 (aged 25),24,1,England Chelsea
+Germany,F,17,DF,Jérôme Boateng,3 September 1988 (aged 29),71,1,Germany Bayern-Munich
+Germany,F,18,DF,Joshua Kimmich,8 February 1995 (aged 23),29,3,Germany Bayern-Munich
+Germany,F,19,MF,Sebastian Rudy,28 February 1990 (aged 28),25,1,Germany Bayern-Munich
+Germany,F,20,MF,Julian Brandt,2 May 1996 (aged 22),16,1,Germany Bayer-Leverkusen
+Germany,F,21,MF,İlkay Gündoğan,24 October 1990 (aged 27),26,4,England Manchester-City
+Germany,F,22,GK,Marc-André ter Stegen,30 April 1992 (aged 26),20,0,Spain Barcelona
+Germany,F,23,FW,Mario Gómez,10 July 1985 (aged 32),75,31,Germany VfB-Stuttgart
+Mexico,F,1,GK,José de Jesús Corona,26 January 1981 (aged 37),52,0,Mexico Cruz-Azul
+Mexico,F,2,DF,Hugo Ayala,31 March 1987 (aged 31),43,1,Mexico UANL
+Mexico,F,3,DF,Carlos Salcedo,29 September 1993 (aged 24),21,0,Germany Eintracht-Frankfurt
+Mexico,F,4,DF,Rafael Márquez,13 February 1979 (aged 39),145,18,Mexico Atlas
+Mexico,F,5,MF,Érick Gutiérrez,15 June 1995 (aged 22),9,0,Mexico Pachuca
+Mexico,F,6,MF,Jonathan dos Santos,26 April 1990 (aged 28),32,0,United-States LA-Galaxy
+Mexico,F,7,MF,Miguel Layún,25 June 1988 (aged 29),64,6,Spain Sevilla
+Mexico,F,8,FW,Marco Fabián,21 July 1989 (aged 28),39,9,Germany Eintracht-Frankfurt
+Mexico,F,9,FW,Raúl Jiménez,5 May 1991 (aged 27),63,13,Portugal Benfica
+Mexico,F,10,MF,Giovani dos Santos,11 May 1989 (aged 29),105,19,United-States LA-Galaxy
+Mexico,F,11,FW,Carlos Vela,1 March 1989 (aged 29),68,18,United-States Los-Angeles-FC
+Mexico,F,12,GK,Alfredo Talavera,18 September 1982 (aged 35),27,0,Mexico Toluca
+Mexico,F,13,GK,Guillermo Ochoa,13 July 1985 (aged 32),94,0,Belgium Standard-Liège
+Mexico,F,14,FW,Javier Hernández,1 June 1988 (aged 30),102,49,England West-Ham-United
+Mexico,F,15,DF,Héctor Moreno,17 January 1988 (aged 30),92,3,Spain Real-Sociedad
+Mexico,F,16,DF,Héctor Herrera,19 April 1990 (aged 28),66,5,Portugal Porto
+Mexico,F,17,MF,Jesús Manuel Corona,6 January 1993 (aged 25),36,7,Portugal Porto
+Mexico,F,18,MF,Andrés Guardado (captain),28 September 1986 (aged 31),145,25,Spain Real-Betis
+Mexico,F,19,FW,Oribe Peralta,12 January 1984 (aged 34),67,26,Mexico América
+Mexico,F,20,MF,Javier Aquino,11 February 1990 (aged 28),53,0,Mexico UANL
+Mexico,F,21,DF,Edson Álvarez,24 October 1997 (aged 20),13,1,Mexico América
+Mexico,F,22,FW,Hirving Lozano,30 July 1995 (aged 22),28,7,Netherlands PSV-Eindhoven
+Mexico,F,23,MF,Jesús Gallardo,15 August 1994 (aged 23),23,0,Mexico UNAM
+South Korea,F,1,GK,Kim Seung-gyu,30 September 1990 (aged 27),33,0,Japan Vissel-Kobe
+South Korea,F,2,DF,Lee Yong,24 December 1986 (aged 31),28,0,South-Korea Jeonbuk-Hyundai-Motors
+South Korea,F,3,DF,Jung Seung-hyun,3 April 1994 (aged 24),6,0,Japan Sagan-Tosu
+South Korea,F,4,DF,Oh Ban-suk,20 May 1988 (aged 30),2,0,South-Korea Jeju-United
+South Korea,F,5,DF,Yun Young-sun,4 October 1988 (aged 29),6,0,South-Korea Seongnam-FC
+South Korea,F,6,DF,Park Joo-ho,16 January 1987 (aged 31),36,0,South-Korea Ulsan-Hyundai
+South Korea,F,7,FW,Son Heung-min,8 July 1992 (aged 25),67,21,England Tottenham-Hotspur
+South Korea,F,8,MF,Ju Se-jong,30 October 1990 (aged 27),11,1,South-Korea Asan-Mugunghwa
+South Korea,F,9,FW,Kim Shin-wook,14 April 1988 (aged 30),50,10,South-Korea Jeonbuk-Hyundai-Motors
+South Korea,F,10,MF,Lee Seung-woo,6 January 1998 (aged 20),4,0,Italy Hellas-Verona
+South Korea,F,11,FW,Hwang Hee-chan,26 January 1996 (aged 22),14,2,Austria Red-Bull-Salzburg
+South Korea,F,12,DF,Kim Min-woo,25 February 1990 (aged 28),20,1,South-Korea Sangju-Sangmu
+South Korea,F,13,MF,Koo Ja-cheol,27 February 1989 (aged 29),68,19,Germany FC-Augsburg
+South Korea,F,14,DF,Hong Chul,17 September 1990 (aged 27),14,0,South-Korea Sangju-Sangmu
+South Korea,F,15,MF,Jung Woo-young,14 December 1989 (aged 28),30,1,Japan Vissel-Kobe
+South Korea,F,16,MF,Ki Sung-yueng (captain),24 January 1989 (aged 29),102,10,Wales Swansea-City
+South Korea,F,17,MF,Lee Jae-sung,10 August 1992 (aged 25),35,6,South-Korea Jeonbuk-Hyundai-Motors
+South Korea,F,18,MF,Moon Seon-min,9 June 1992 (aged 26),3,1,South-Korea Incheon-United
+South Korea,F,19,DF,Kim Young-gwon,27 February 1990 (aged 28),53,2,China Guangzhou-Evergrande
+South Korea,F,20,DF,Jang Hyun-soo,28 September 1991 (aged 26),51,3,Japan FC-Tokyo
+South Korea,F,21,GK,Kim Jin-hyeon,6 July 1987 (aged 30),15,0,Japan Cerezo-Osaka
+South Korea,F,22,DF,Go Yo-han,10 March 1988 (aged 30),20,0,South-Korea FC-Seoul
+South Korea,F,23,GK,Cho Hyun-woo,25 September 1991 (aged 26),6,0,South-Korea Daegu-FC
+Sweden,F,1,GK,Robin Olsen,8 January 1990 (aged 28),18,0,Denmark Copenhagen
+Sweden,F,2,DF,Mikael Lustig,13 December 1986 (aged 31),66,6,Scotland Celtic
+Sweden,F,3,DF,Victor Lindelöf,17 July 1994 (aged 23),21,1,England Manchester-United
+Sweden,F,4,DF,Andreas Granqvist (captain),16 April 1985 (aged 33),72,6,Russia Krasnodar
+Sweden,F,5,DF,Martin Olsson,17 May 1988 (aged 30),43,5,Wales Swansea-City
+Sweden,F,6,DF,Ludwig Augustinsson,21 April 1994 (aged 24),15,0,Germany Werder-Bremen
+Sweden,F,7,MF,Sebastian Larsson,6 June 1985 (aged 33),100,6,England Hull-City
+Sweden,F,8,MF,Albin Ekdal,28 July 1989 (aged 28),34,0,Germany Hamburger-SV
+Sweden,F,9,FW,Marcus Berg,17 August 1986 (aged 31),57,18,United-Arab-Emirates Al-Ain
+Sweden,F,10,MF,Emil Forsberg,23 October 1991 (aged 26),36,6,Germany RB-Leipzig
+Sweden,F,11,FW,John Guidetti,15 April 1992 (aged 26),20,1,Spain Alavés
+Sweden,F,12,GK,Karl-Johan Johnsson,28 January 1990 (aged 28),5,0,France Guingamp
+Sweden,F,13,MF,Gustav Svensson,7 February 1987 (aged 31),13,0,United-States Seattle-Sounders-FC
+Sweden,F,14,DF,Filip Helander,22 April 1993 (aged 25),4,0,Italy Bologna
+Sweden,F,15,MF,Oscar Hiljemark,28 June 1992 (aged 25),22,2,Italy Genoa
+Sweden,F,16,DF,Emil Krafth,2 August 1994 (aged 23),13,0,Italy Bologna
+Sweden,F,17,MF,Viktor Claesson,2 January 1992 (aged 26),22,3,Russia Krasnodar
+Sweden,F,18,DF,Pontus Jansson,13 February 1991 (aged 27),15,0,England Leeds-United
+Sweden,F,19,MF,Marcus Rohdén,11 May 1991 (aged 27),12,1,Italy Crotone
+Sweden,F,20,FW,Ola Toivonen,3 July 1986 (aged 31),59,13,France Toulouse
+Sweden,F,21,MF,Jimmy Durmaz,22 March 1989 (aged 29),45,3,France Toulouse
+Sweden,F,22,FW,Isaac Kiese Thelin,24 June 1992 (aged 25),20,2,Belgium Waasland-Beveren
+Sweden,F,23,GK,Kristoffer Nordfeldt,23 June 1989 (aged 28),8,0,Wales Swansea-City
+Belgium,G,1,GK,Thibaut Courtois,11 May 1992 (aged 26),58,0,England Chelsea
+Belgium,G,2,DF,Toby Alderweireld,2 March 1989 (aged 29),77,3,England Tottenham-Hotspur
+Belgium,G,3,DF,Thomas Vermaelen,14 November 1985 (aged 32),66,1,Spain Barcelona
+Belgium,G,4,DF,Vincent Kompany,10 April 1986 (aged 32),77,4,England Manchester-City
+Belgium,G,5,DF,Jan Vertonghen,24 April 1987 (aged 31),102,8,England Tottenham-Hotspur
+Belgium,G,6,MF,Axel Witsel,12 January 1989 (aged 29),90,9,China Tianjin-Quanjian
+Belgium,G,7,MF,Kevin De Bruyne,28 June 1991 (aged 26),62,14,England Manchester-City
+Belgium,G,8,MF,Marouane Fellaini,22 November 1987 (aged 30),82,17,England Manchester-United
+Belgium,G,9,FW,Romelu Lukaku,13 May 1993 (aged 25),69,36,England Manchester-United
+Belgium,G,10,FW,Eden Hazard (captain),7 January 1991 (aged 27),86,22,England Chelsea
+Belgium,G,11,MF,Yannick Carrasco,4 September 1993 (aged 24),26,5,China Dalian-Yifang
+Belgium,G,12,GK,Simon Mignolet,6 March 1988 (aged 30),21,0,England Liverpool
+Belgium,G,13,GK,Koen Casteels,25 June 1992 (aged 25),0,0,Germany VfL-Wolfsburg
+Belgium,G,14,FW,Dries Mertens,6 May 1987 (aged 31),69,14,Italy Napoli
+Belgium,G,15,DF,Thomas Meunier,12 September 1991 (aged 26),25,5,France Paris-Saint-Germain
+Belgium,G,16,MF,Thorgan Hazard,29 March 1993 (aged 25),11,1,Germany Borussia-Mönchengladbach
+Belgium,G,17,MF,Youri Tielemans,7 May 1997 (aged 21),9,0,France Monaco
+Belgium,G,18,FW,Adnan Januzaj,5 February 1995 (aged 23),8,0,Spain Real-Sociedad
+Belgium,G,19,MF,Mousa Dembélé,16 July 1987 (aged 30),76,5,England Tottenham-Hotspur
+Belgium,G,20,DF,Dedryck Boyata,28 November 1990 (aged 27),7,0,Scotland Celtic
+Belgium,G,21,FW,Michy Batshuayi,2 October 1993 (aged 24),16,7,Germany Borussia-Dortmund
+Belgium,G,22,MF,Nacer Chadli,2 August 1989 (aged 28),45,5,England West-Bromwich-Albion
+Belgium,G,23,DF,Leander Dendoncker,15 April 1995 (aged 23),5,0,Belgium Anderlecht
+England,G,1,GK,Jordan Pickford,7 March 1994 (aged 24),3,0,England Everton
+England,G,2,DF,Kyle Walker,28 May 1990 (aged 28),35,0,England Manchester-City
+England,G,3,DF,Danny Rose,2 July 1990 (aged 27),18,0,England Tottenham-Hotspur
+England,G,4,MF,Eric Dier,15 January 1994 (aged 24),26,3,England Tottenham-Hotspur
+England,G,5,DF,John Stones,28 May 1994 (aged 24),26,0,England Manchester-City
+England,G,6,DF,Harry Maguire,5 March 1993 (aged 25),5,0,England Leicester-City
+England,G,7,MF,Jesse Lingard,15 December 1992 (aged 25),12,1,England Manchester-United
+England,G,8,MF,Jordan Henderson,17 June 1990 (aged 27),39,0,England Liverpool
+England,G,9,FW,Harry Kane (captain),28 July 1993 (aged 24),24,13,England Tottenham-Hotspur
+England,G,10,FW,Raheem Sterling,8 December 1994 (aged 23),38,2,England Manchester-City
+England,G,11,FW,Jamie Vardy,11 January 1987 (aged 31),22,7,England Leicester-City
+England,G,12,DF,Kieran Trippier,19 September 1990 (aged 27),7,0,England Tottenham-Hotspur
+England,G,13,GK,Jack Butland,10 March 1993 (aged 25),8,0,England Stoke-City
+England,G,14,FW,Danny Welbeck,26 November 1990 (aged 27),39,16,England Arsenal
+England,G,15,DF,Gary Cahill,19 December 1985 (aged 32),60,5,England Chelsea
+England,G,16,DF,Phil Jones,21 February 1992 (aged 26),25,0,England Manchester-United
+England,G,17,DF,Fabian Delph,21 November 1989 (aged 28),11,0,England Manchester-City
+England,G,18,DF,Ashley Young,9 July 1985 (aged 32),34,7,England Manchester-United
+England,G,19,FW,Marcus Rashford,31 October 1997 (aged 20),19,3,England Manchester-United
+England,G,20,MF,Dele Alli,11 April 1996 (aged 22),25,2,England Tottenham-Hotspur
+England,G,21,MF,Ruben Loftus-Cheek,23 January 1996 (aged 22),4,0,England Crystal-Palace
+England,G,22,DF,Trent Alexander-Arnold,7 October 1998 (aged 19),1,0,England Liverpool
+England,G,23,GK,Nick Pope,19 April 1992 (aged 26),1,0,England Burnley
+Panama,G,1,GK,Jaime Penedo,26 September 1981 (aged 36),131,0,Romania Dinamo-București
+Panama,G,2,DF,Michael Amir Murillo,11 February 1996 (aged 22),22,2,United-States New-York-Red-Bulls
+Panama,G,3,DF,Harold Cummings,1 March 1992 (aged 26),52,0,United-States San-Jose-Earthquakes
+Panama,G,4,DF,Fidel Escobar,9 January 1995 (aged 23),23,1,United-States New-York-Red-Bulls
+Panama,G,5,DF,Román Torres,20 March 1986 (aged 32),111,10,United-States Seattle-Sounders-FC
+Panama,G,6,MF,Gabriel Gómez,29 May 1984 (aged 34),144,12,Colombia Atlético-Bucaramanga
+Panama,G,7,FW,Blas Pérez,13 March 1981 (aged 37),118,43,Guatemala Municipal
+Panama,G,8,MF,Édgar Bárcenas,23 October 1993 (aged 24),29,0,Mexico Tapachula
+Panama,G,9,FW,Gabriel Torres,31 October 1988 (aged 29),72,14,Chile Huachipato
+Panama,G,10,FW,Ismael Díaz,12 May 1997 (aged 21),11,2,Spain Deportivo-Fabril
+Panama,G,11,MF,Armando Cooper,26 November 1987 (aged 30),98,7,Chile Universidad-de-Chile
+Panama,G,12,GK,José Calderón,14 August 1985 (aged 32),31,0,Panama Chorrillo
+Panama,G,13,DF,Adolfo Machado,14 February 1985 (aged 33),76,1,United-States Houston-Dynamo
+Panama,G,14,MF,Valentín Pimentel,30 May 1991 (aged 27),23,1,Panama Plaza-Amador
+Panama,G,15,DF,Erick Davis,31 March 1991 (aged 27),38,0,Slovakia Dunajská-Streda
+Panama,G,16,FW,Abdiel Arroyo,13 December 1993 (aged 24),33,5,Costa-Rica Alajuelense
+Panama,G,17,DF,Luis Ovalle,7 September 1988 (aged 29),25,0,Honduras CD-Olimpia
+Panama,G,18,FW,Luis Tejada,28 March 1982 (aged 36),105,43,Peru Sport-Boys
+Panama,G,19,MF,Ricardo Ávila,4 February 1997 (aged 21),5,0,Belgium Gent
+Panama,G,20,MF,Aníbal Godoy,10 February 1990 (aged 28),88,1,United-States San-Jose-Earthquakes
+Panama,G,21,MF,José Luis Rodríguez,19 June 1998 (aged 19),2,0,Belgium Gent
+Panama,G,22,GK,Álex Rodríguez,5 August 1990 (aged 27),6,0,Panama San-Francisco
+Panama,G,23,DF,Felipe Baloy (captain),24 February 1981 (aged 37),102,3,Guatemala Municipal
+Tunisia,G,1,GK,Farouk Ben Mustapha,1 July 1989 (aged 28),15,0,Saudi-Arabia Al-Shabab
+Tunisia,G,2,DF,Syam Ben Youssef,31 March 1989 (aged 29),42,1,Turkey Kasımpaşa
+Tunisia,G,3,DF,Yohan Benalouane,28 March 1987 (aged 31),4,0,England Leicester-City
+Tunisia,G,4,DF,Yassine Meriah,2 July 1993 (aged 24),16,1,Tunisia CS-Sfaxien
+Tunisia,G,5,DF,Oussama Haddadi,28 January 1992 (aged 26),9,0,France Dijon
+Tunisia,G,6,DF,Rami Bedoui,19 January 1990 (aged 28),8,0,Tunisia Étoile-du-Sahel
+Tunisia,G,7,FW,Saîf-Eddine Khaoui,27 April 1995 (aged 23),5,0,France Troyes
+Tunisia,G,8,FW,Fakhreddine Ben Youssef,23 June 1991 (aged 26),39,5,Saudi-Arabia Al-Ettifaq
+Tunisia,G,9,MF,Anice Badri,18 September 1990 (aged 27),7,2,Tunisia Espérance
+Tunisia,G,10,FW,Wahbi Khazri,8 February 1991 (aged 27),35,12,France Rennes
+Tunisia,G,11,DF,Dylan Bronn,19 June 1995 (aged 22),5,0,Belgium Gent
+Tunisia,G,12,DF,Ali Maâloul,1 January 1990 (aged 28),46,0,Egypt Al-Ahly
+Tunisia,G,13,MF,Ferjani Sassi,18 March 1992 (aged 26),39,3,Saudi-Arabia Al-Nassr
+Tunisia,G,14,MF,Mohamed Amine Ben Amor,3 May 1992 (aged 26),26,1,Saudi-Arabia Al-Ahli
+Tunisia,G,15,FW,Ahmed Khalil,21 December 1994 (aged 23),3,0,Tunisia Club-Africain
+Tunisia,G,16,GK,Aymen Mathlouthi (captain),14 September 1984 (aged 33),70,0,Saudi-Arabia Al-Batin
+Tunisia,G,17,MF,Ellyes Skhiri,10 May 1995 (aged 23),5,0,France Montpellier
+Tunisia,G,18,FW,Bassem Srarfi,25 June 1997 (aged 20),5,0,France Nice
+Tunisia,G,19,FW,Saber Khalifa,14 October 1986 (aged 31),44,7,Tunisia Club-Africain
+Tunisia,G,20,FW,Ghailene Chaalali,28 February 1994 (aged 24),6,1,Tunisia Espérance
+Tunisia,G,21,DF,Hamdi Nagguez,28 October 1992 (aged 25),15,0,Egypt Zamalek
+Tunisia,G,22,GK,Mouez Hassen,5 March 1995 (aged 23),3,0,France Châteauroux
+Tunisia,G,23,FW,Naïm Sliti,27 July 1992 (aged 25),17,3,France Dijon
+Columbia,H,1,GK,David Ospina,31 August 1988 (aged 29),86,0,England Arsenal
+Columbia,H,2,DF,Cristián Zapata,30 September 1986 (aged 31),55,2,Italy Milan
+Columbia,H,3,DF,Óscar Murillo,18 April 1988 (aged 30),13,0,Mexico Pachuca
+Columbia,H,4,DF,Santiago Arias,13 January 1992 (aged 26),41,0,Netherlands PSV-Eindhoven
+Columbia,H,5,MF,Wílmar Barrios,16 October 1993 (aged 24),10,0,Argentina Boca-Juniors
+Columbia,H,6,MF,Carlos Sánchez,6 February 1986 (aged 32),85,0,Spain Espanyol
+Columbia,H,7,FW,Carlos Bacca,8 September 1986 (aged 31),45,14,Spain Villarreal
+Columbia,H,8,MF,Abel Aguilar,6 January 1985 (aged 33),70,7,Colombia Deportivo-Cali
+Columbia,H,9,FW,Radamel Falcao (captain),10 February 1986 (aged 32),73,29,France Monaco
+Columbia,H,10,MF,James Rodríguez,12 July 1991 (aged 26),63,21,Germany Bayern-Munich
+Columbia,H,11,MF,Juan Cuadrado,26 May 1988 (aged 30),70,7,Italy Juventus
+Columbia,H,12,GK,Camilo Vargas,9 March 1989 (aged 29),5,0,Colombia Deportivo-Cali
+Columbia,H,13,DF,Yerry Mina,23 September 1994 (aged 23),12,3,Spain Barcelona
+Columbia,H,14,FW,Luis Muriel,16 April 1991 (aged 27),18,2,Spain Sevilla
+Columbia,H,15,MF,Mateus Uribe,21 March 1991 (aged 27),8,0,Mexico América
+Columbia,H,16,MF,Jefferson Lerma,25 October 1994 (aged 23),5,0,Spain Levante
+Columbia,H,17,DF,Johan Mojica,21 August 1992 (aged 25),4,1,Spain Girona
+Columbia,H,18,DF,Farid Díaz,20 July 1983 (aged 34),13,0,Paraguay Olimpia
+Columbia,H,19,FW,Miguel Borja,26 January 1993 (aged 25),7,2,Brazil Palmeiras
+Columbia,H,20,MF,Juan Fernando Quintero,18 January 1993 (aged 25),15,2,Argentina River-Plate
+Columbia,H,21,FW,José Izquierdo,7 July 1992 (aged 25),5,1,England Brighton-&-Hove-Albion
+Columbia,H,22,GK,José Fernando Cuadrado,1 June 1985 (aged 33),1,0,Colombia Once-Caldas
+Columbia,H,23,DF,Dávinson Sánchez,12 June 1996 (aged 22),9,0,England Tottenham-Hotspur
+Japan,H,1,GK,Eiji Kawashima,20 March 1983 (aged 35),84,0,France Metz
+Japan,H,2,DF,Naomichi Ueda,24 October 1994 (aged 23),4,0,Japan Kashima-Antlers
+Japan,H,3,DF,Gen Shoji,11 December 1992 (aged 25),11,1,Japan Kashima-Antlers
+Japan,H,4,MF,Keisuke Honda,13 June 1986 (aged 32),95,36,Mexico Pachuca
+Japan,H,5,DF,Yuto Nagatomo,12 September 1986 (aged 31),105,3,Turkey Galatasaray
+Japan,H,6,DF,Wataru Endo,9 February 1993 (aged 25),12,0,Japan Urawa-Red-Diamonds
+Japan,H,7,MF,Gaku Shibasaki,28 May 1992 (aged 26),18,3,Spain Getafe
+Japan,H,8,MF,Genki Haraguchi,9 May 1991 (aged 27),33,6,Germany Fortuna-Düsseldorf
+Japan,H,9,FW,Shinji Okazaki,16 April 1986 (aged 32),113,50,England Leicester-City
+Japan,H,10,MF,Shinji Kagawa,17 March 1989 (aged 29),92,30,Germany Borussia-Dortmund
+Japan,H,11,MF,Takashi Usami,6 May 1992 (aged 26),24,3,Germany Fortuna-Düsseldorf
+Japan,H,12,GK,Masaaki Higashiguchi,12 May 1986 (aged 32),5,0,Japan Gamba-Osaka
+Japan,H,13,FW,Yoshinori Muto,15 July 1992 (aged 25),24,2,Germany Mainz-05
+Japan,H,14,MF,Takashi Inui,2 June 1988 (aged 30),27,4,Spain Eibar
+Japan,H,15,FW,Yuya Osako,18 May 1990 (aged 28),29,7,Germany 1.-FC-Köln
+Japan,H,16,MF,Hotaru Yamaguchi,6 October 1990 (aged 27),42,2,Japan Cerezo-Osaka
+Japan,H,17,MF,Makoto Hasebe (captain),18 January 1984 (aged 34),110,2,Germany Eintracht-Frankfurt
+Japan,H,18,MF,Ryota Oshima,23 January 1993 (aged 25),5,0,Japan Kawasaki-Frontale
+Japan,H,19,DF,Hiroki Sakai,12 April 1990 (aged 28),43,0,France Marseille
+Japan,H,20,DF,Tomoaki Makino,11 May 1987 (aged 31),32,4,Japan Urawa-Red-Diamonds
+Japan,H,21,DF,Gōtoku Sakai,14 March 1991 (aged 27),41,0,Germany Hamburger-SV
+Japan,H,22,DF,Maya Yoshida,24 August 1988 (aged 29),82,10,England Southampton
+Japan,H,23,GK,Kosuke Nakamura,27 February 1995 (aged 23),4,0,Japan Kashiwa-Reysol
+Poland,H,1,GK,Wojciech Szczęsny,18 April 1990 (aged 28),35,0,Italy Juventus
+Poland,H,2,DF,Michał Pazdan,21 September 1987 (aged 30),33,0,Poland Legia-Warsaw
+Poland,H,3,DF,Artur Jędrzejczyk,4 November 1987 (aged 30),36,3,Poland Legia-Warsaw
+Poland,H,4,DF,Thiago Cionek,21 April 1986 (aged 32),19,0,Italy SPAL
+Poland,H,5,DF,Jan Bednarek,12 April 1996 (aged 22),3,0,England Southampton
+Poland,H,6,MF,Jacek Góralski,21 September 1992 (aged 25),5,0,Bulgaria Ludogorets-Razgrad
+Poland,H,7,FW,Arkadiusz Milik,28 February 1994 (aged 24),40,12,Italy Napoli
+Poland,H,8,MF,Karol Linetty,2 February 1995 (aged 23),20,1,Italy Sampdoria
+Poland,H,9,FW,Robert Lewandowski (captain),21 August 1988 (aged 29),95,55,Germany Bayern-Munich
+Poland,H,10,MF,Grzegorz Krychowiak,29 January 1990 (aged 28),51,2,England West-Bromwich-Albion
+Poland,H,11,MF,Kamil Grosicki,8 June 1988 (aged 30),57,12,England Hull-City
+Poland,H,12,GK,Bartosz Białkowski,6 July 1987 (aged 30),1,0,England Ipswich-Town
+Poland,H,13,MF,Maciej Rybus,19 August 1989 (aged 28),51,2,Russia Lokomotiv-Moscow
+Poland,H,14,FW,Łukasz Teodorczyk,3 June 1991 (aged 27),17,4,Belgium Anderlecht
+Poland,H,15,DF,Kamil Glik,3 February 1988 (aged 30),57,4,France Monaco
+Poland,H,16,MF,Jakub Błaszczykowski,14 December 1985 (aged 32),99,20,Germany VfL-Wolfsburg
+Poland,H,17,MF,Sławomir Peszko,19 February 1985 (aged 33),43,2,Poland Lechia-Gdańsk
+Poland,H,18,DF,Bartosz Bereszyński,12 July 1992 (aged 25),8,0,Italy Sampdoria
+Poland,H,19,MF,Piotr Zieliński,20 May 1994 (aged 24),33,5,Italy Napoli
+Poland,H,20,DF,Łukasz Piszczek,3 June 1985 (aged 33),63,3,Germany Borussia-Dortmund
+Poland,H,21,MF,Rafał Kurzawa,29 January 1993 (aged 25),3,0,Poland Górnik-Zabrze
+Poland,H,22,GK,Łukasz Fabiański,18 April 1985 (aged 33),45,0,Wales Swansea-City
+Poland,H,23,FW,Dawid Kownacki,14 March 1997 (aged 21),2,1,Italy Sampdoria
+Senegal,H,1,GK,Abdoulaye Diallo,30 March 1992 (aged 26),17,0,France Rennes
+Senegal,H,2,DF,Saliou Ciss,15 June 1989 (aged 28),18,0,France Valenciennes
+Senegal,H,3,DF,Kalidou Koulibaly,20 June 1991 (aged 26),26,0,Italy Napoli
+Senegal,H,4,DF,Kara Mbodji,22 November 1989 (aged 28),52,5,Belgium Anderlecht
+Senegal,H,5,MF,Idrissa Gueye,26 September 1989 (aged 28),61,1,England Everton
+Senegal,H,6,MF,Salif Sané,25 August 1990 (aged 27),22,0,Germany Hannover-96
+Senegal,H,7,FW,Moussa Sow,19 January 1986 (aged 32),51,18,Turkey Bursaspor
+Senegal,H,8,MF,Cheikhou Kouyaté (captain),21 December 1989 (aged 28),48,2,England West-Ham-United
+Senegal,H,9,FW,Mame Biram Diouf,16 December 1987 (aged 30),49,10,England Stoke-City
+Senegal,H,10,FW,Sadio Mané,10 April 1992 (aged 26),53,14,England Liverpool
+Senegal,H,11,MF,Cheikh N'Doye,29 March 1986 (aged 32),26,3,England Birmingham-City
+Senegal,H,12,DF,Youssouf Sabaly,5 March 1993 (aged 25),5,0,France Bordeaux
+Senegal,H,13,MF,Alfred N'Diaye,6 March 1990 (aged 28),21,0,England Wolverhampton-Wanderers
+Senegal,H,14,FW,Moussa Konaté,3 April 1993 (aged 25),28,10,France Amiens
+Senegal,H,15,FW,Diafra Sakho,24 December 1989 (aged 28),12,3,France Rennes
+Senegal,H,16,GK,Khadim N'Diaye,5 April 1985 (aged 33),26,0,Guinea Horoya
+Senegal,H,17,MF,Badou Ndiaye,27 October 1990 (aged 27),20,1,England Stoke-City
+Senegal,H,18,FW,Ismaïla Sarr,25 February 1998 (aged 20),16,3,France Rennes
+Senegal,H,19,FW,M'Baye Niang,19 December 1994 (aged 23),7,0,Italy Torino
+Senegal,H,20,FW,Keita Baldé,8 March 1995 (aged 23),19,3,France Monaco
+Senegal,H,21,DF,Lamine Gassama,20 October 1989 (aged 28),36,0,Turkey Alanyaspor
+Senegal,H,22,DF,Moussa Wagué,4 October 1998 (aged 19),10,0,Belgium Eupen
+Senegal,H,23,GK,Alfred Gomis,5 September 1993 (aged 24),1,0,Italy SPAL
