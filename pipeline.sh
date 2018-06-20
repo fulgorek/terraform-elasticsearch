@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 WORKDIR="$( cd "$(dirname "$0")"; pwd -P)"
-REGION=${1:-us-west-2}
+REGION=us-west-2
 
 function _test(){
   type ${1} &> /dev/null
