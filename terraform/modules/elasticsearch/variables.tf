@@ -1,103 +1,128 @@
-variable "environment" {}
-variable "region" {}
+variable "environment" {
+  description = "set environment, used for tagging resources"
+  type        = "string"
+}
+
+variable "region" {
+  description = "AWS region"
+  type        = "string"
+}
 
 variable "cluster_name" {
-  type    = "string"
-  default = "my-cluster"
+  description = "Cluster name shown in elasticsear, also used for tagging resources"
+  type        = "string"
+  default     = "my-cluster"
 }
 
 variable "elasticsearch_version" {
-  type    = "string"
-  default = "6.2.4"
+  description = "elasticsearch version to use"
+  type        = "string"
+  default     = "6.2.4"
 }
 
 variable "project" {
-  type    = "string"
-  default = "project-name"
+  description = "project name"
+  type        = "string"
+  default     = "project-name"
 }
 
 variable "vpc_id" {
-  type = "string"
+  description = "VPC where resources are deployed"
+  type        = "string"
 }
 
 variable "master_node_subnets" {
-  type = "string"
+  description = "subnets where master nodes are deployed"
+  type        = "string"
 }
 
 variable "data_node_subnets" {
-  type = "string"
+  description = "subnets where data nodes are deployed"
+  type        = "string"
 }
 
 variable "key_name" {
-  type    = "string"
-  default = ""
+  description = "ssh key name from your AWS to use"
+  type        = "string"
+  default     = ""
 }
 
 variable "default_ami" {
-  type    = "string"
-  default = ""
+  description = "AMI(AMAZONLINUX) to use."
+  type        = "string"
+  default     = ""
 }
 
 # Master nodes
 variable "master_node_count_min" {
-  type    = "string"
-  default = 1
+  description = "Min number of master nodes to use for the Auto Scale Group"
+  type        = "string"
+  default     = 1
 }
 
 variable "master_node_count_max" {
-  type    = "string"
-  default = 1
+  description = "Max number of master nodes to use for the Auto Scale Group"
+  type        = "string"
+  default     = 1
 }
 
 variable "master_node_public_ip" {
-  type    = "string"
-  default = true
+  description = "Assign public IP to master nodes"
+  type        = "string"
+  default     = true
 }
 
 variable "master_node_instance_type" {
-  type    = "string"
-  default = "t2.micro"
+  description = "Master node instance type"
+  type        = "string"
+  default     = "t2.micro"
 }
 
 variable "master_node_volume_type" {
-  type    = "string"
-  default = "gp2"
+  description = "Master node volume type"
+  type        = "string"
+  default     = "gp2"
 }
 
 variable "master_node_volume_size" {
-  type    = "string"
-  default = 20
+  description = "Master node volume size"
+  type        = "string"
+  default     = 20
 }
 
 # Data Node
 variable "data_node_count_min" {
+  description = "Min number of data nodes to use for the Auto Scale Group"
   type        = "string"
-  description = "describe your variable"
   default     = 2
 }
 
 variable "data_node_count_max" {
+  description = "Max number of data nodes to use for the Auto Scale Group"
   type        = "string"
-  description = "describe your variable"
   default     = 2
 }
 
 variable "data_node_public_ip" {
-  type    = "string"
-  default = false
+  description = "Assign public IP to data nodes"
+  type        = "string"
+  default     = false
 }
 
 variable "data_node_instance_type" {
-  type    = "string"
-  default = "t2.micro"
+  description = "Data node instance type"
+  type        = "string"
+  default     = "t2.micro"
 }
 
 variable "data_node_volume_type" {
-  type    = "string"
-  default = "gp2"
+  description = "Data node volume type"
+  type        = "string"
+  default     = "gp2"
 }
 
 variable "data_node_volume_size" {
-  type    = "string"
-  default = 40
+  description = "Data node volume size"
+  type        = "string"
+  default     = 40
 }
