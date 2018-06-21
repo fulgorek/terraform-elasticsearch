@@ -9,7 +9,7 @@ The purpose of this project is create a self managed, auto-configured, easy scal
 Fully automatized Elasticsearch cluster installation and data pipeline with test dataset from https://www.reddit.com/r/datasets/
 
 
-### Requirements
+### Technology
  - Terraform v0.11.7
  - Elasticsearch 6.2.4
  - Kibana 6.2.4
@@ -46,10 +46,11 @@ The pipeline will create the index, add the records from `pipeline/dataset/reddi
 
 
 ### Manual run
-`$ HOST=<master node> npm start`
+
+`npm install && $ HOST=<elasticsearch node> npm start`
 
 
-# DEMO
+# DEMO SCRIPTS
 `terraform.sh`: This script will `pull` information from your AWS account like VPC, Subnets, and find the IP of the MASTER node,then create all the resources.
 please refer to `terraform/elasticsearch.tf`
 
@@ -75,5 +76,5 @@ Dataset used: https://www.reddit.com/r/datasets/ (https://www.reddit.com/r/datas
 go to `terraform` directory and run `terraform destroy`
 
 
-#Licence
+# Licence
 MIT
