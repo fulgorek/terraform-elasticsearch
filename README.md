@@ -22,7 +22,76 @@ Fully automatized Elasticsearch cluster installation and data pipeline with test
 Terraform module `terraform/modules/elasticsearch`
 
 
-## Variables
+### Configuration variables for Elasticsearch module:
+
+```
+environment
+  set environment, used for tagging resources
+
+region
+  AWS region
+
+cluster_name
+  Cluster name shown in elasticsear, also used for tagging resources
+
+elasticsearch_version
+  elasticsearch version to use
+
+project
+  project name
+
+vpc_id
+  VPC where resources are deployed
+
+master_node_subnets
+  subnets where master nodes are deployed
+
+data_node_subnets
+  subnets where data nodes are deployed
+
+key_name
+  ssh key name from your AWS to use
+
+default_ami
+  AMI(AMAZONLINUX) to use.
+
+master_node_count_min
+  Min number of master nodes to use for the Auto Scale Group
+
+master_node_count_max
+  Max number of master nodes to use for the Auto Scale Group
+
+master_node_public_ip
+  Assign public IP to master nodes
+
+master_node_instance_type
+  Master node instance type
+
+master_node_volume_type
+  Master node volume type
+
+master_node_volume_size
+  Master node volume size
+
+data_node_count_min
+  Min number of data nodes to use for the Auto Scale Group
+
+data_node_count_max
+  Max number of data nodes to use for the Auto Scale Group
+
+data_node_public_ip
+  Assign public IP to data nodes
+
+data_node_instance_type
+  Data node instance type
+
+data_node_volume_type
+  Data node volume type
+
+data_node_volume_size
+  Data node volume size
+```
+#### Note:
 All variables accepted are described in `terraform/modules/elasticsearch/variables.tf`
 
 
@@ -47,15 +116,29 @@ The pipeline will create the index, add the records from `pipeline/dataset/reddi
 
 ### Manual run
 
-`npm install && $ HOST=<elasticsearch node> npm start`
+
+```
+$ npm install && $ HOST=<elasticsearch node> npm start
+```
 
 
 # DEMO SCRIPTS
 `terraform.sh`: This script will `pull` information from your AWS account like VPC, Subnets, and find the IP of the MASTER node,then create all the resources.
 please refer to `terraform/elasticsearch.tf`
 
+
+```
+$ ./terraform.sh
+```
+
+
 `pipeline.sh`: This script will `pull` IP of the MASTER node, import the dataset, create the indexes and configure Kibana.
 please refer to `pipeline/index.js`
+
+
+```
+$ ./pipeline.sh
+```
 
 Dataset used: https://www.reddit.com/r/datasets/ (https://www.reddit.com/r/datasets/comments/8sa5vi/world_cup_rosters_stats_and_club_teams_data/)
 
@@ -72,7 +155,7 @@ Dataset used: https://www.reddit.com/r/datasets/ (https://www.reddit.com/r/datas
  - run `$ ./pipeline.sh`, you'll see your kibana url.
 
 
-# Destroy AWS resources:
+## Destroy AWS resources:
 go to `terraform` directory and run `terraform destroy`
 
 
